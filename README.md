@@ -9,7 +9,7 @@
 </a>
 
 <p><b>Note:</b>This is avaiable for desktop or laptop only.</p>
-<p><b>Note:</b>When you open the webpage press file then download and finally press PDF.</p> <p><b>Note:</b>No sound effects on app open https://turtlegame.rendeforestsites.com to play version with sound</p>
+<p><b>instrcutions:</b>When you open the webpage press file then download and finally press PDF.</p> <p><b>Note:</b>No sound effects on app open https://turtlegame.rendeforestsites.com to play version with sound</p>
 <p><b>Age:</b> Recommended for ages 5-13 and up.
 <p><b>Note:</b> App only downloadable on this site.
 <p><b>If the download button doesnt work open this site </b>  https://docs.google.com/presentation/d/17AtrD2BrHhQgiPKwfInh7U4Fz83wjC-fylNr8z89Lo8/edit?pli=1&slide=id.g300772f0725_0_18#slide=id.g300772f0725_0_18 <p><b> and follow the instrcutions given. </b>
