@@ -1,12 +1,19 @@
-# Turtle-game <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Turtle game</title>
-</head>
+<!DOCTYPE html>
+<html>
 <body>
-    <h1>February 19 2025 </h1>
-    <p>Turtle game structure html file code.</p>
+
+<p>Click on the logo to download the game:<p>
+
+<a href="https://docs.google.com/presentation/d/17AtrD2BrHhQgiPKwfInh7U4Fz83wjC-fylNr8z89Lo8/edit?usp=sharing" download>
+ <img src="https://3.bp.blogspot.com/-B4gzpaIQB34/VJ2Z1lXwXcI/AAAAAAAAAdY/UB9SWaNHtYY/s1600/download-logo.gif" alt="W3Schools" width="104" height="142">
+</a>
+
+<p><b>Note:</b>This is avaiable for desktop or laptop only.</p>
+<p><b>Note:</b>When you open the webpage press file then download and finally press PDF.</p> <p><b>Note:</b>No sound effects on app open https://turtlegame.rendeforestsites.com to play version with sound</p>
+<p><b>Age:</b> Recommended for ages 5-13 and up.
+<p><b>Note:</b> App only downloadable on this site.
+<p><b>If the download button doesnt work open this site </b>  https://docs.google.com/presentation/d/17AtrD2BrHhQgiPKwfInh7U4Fz83wjC-fylNr8z89Lo8/edit?pli=1&slide=id.g300772f0725_0_18#slide=id.g300772f0725_0_18 <p><b> and follow the instrcutions given. </b>
 </body>
-</html>  <code></code> down arrow key = player.move_forward <code></code> up arrow key = player.move_backward <link rel="stylesheet" href="">https://docs.google.com/presentation/d/e/2PACX-1vQYMprBz_RYJPad0tWOi-LgRDy43K2En3tZYLgye3AFxRlGSPsJ03WQE0tefkCLRWyx5a-cKRNj6hWo/pub?start=false&loop=false&delayms=3000&slide=id.g300772f0725_0_18 language = <html-en>english</html-en>end
+</html>
+
+
