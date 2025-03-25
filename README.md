@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<p>Click on the logo to download the game:<p>
+<p>Click on the logo to open online downloader :<p>
 
 <a href="https://docs.google.com/presentation/d/17AtrD2BrHhQgiPKwfInh7U4Fz83wjC-fylNr8z89Lo8/edit?usp=sharing" download>
  <img src="https://3.bp.blogspot.com/-B4gzpaIQB34/VJ2Z1lXwXcI/AAAAAAAAAdY/UB9SWaNHtYY/s1600/download-logo.gif" alt="W3Schools" width="104" height="142">
